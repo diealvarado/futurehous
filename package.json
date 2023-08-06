@@ -1,7 +1,7 @@
 {
   "name": "housecare",
-  "version": "1..0",
-  "author": "Diego Alvarado <diegoealarado@gmail.com>",
+  "version": "1.0.0",
+  "author": "Diego Alvarado",
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
@@ -9,14 +9,15 @@
     "build": "gatsby build"
   },
   "engines": {
-    "node": "18.16.1"
+    "node": ">=14"
   },
   "engineStrict": true,
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
-    "gatsby": "^4.24.0",
+    "gatsby": "^3.12.0",
     "gatsby-core-utils": "^4.11.0",
     "gatsby-plugin-google-fonts": "^1.0.1",
+    "gatsby-plugin-react-helmet": "^4.12.0",
     "gatsby-plugin-sass": "^4.12.0",
     "gatsby-source-filesystem": "^3.12.0",
     "gatsby-transformer-json": "^3.12.0",
