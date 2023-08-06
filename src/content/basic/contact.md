@@ -1,11 +1,11 @@
 ---
 path: '/contact'
 title: 'Contact'
-date: 2018-02-22T17:01:34+07:00
+date: 2023-08-04T08:45:34-05:00
 template: "contact"
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+Our offices are opened during these hours:
 
 | Day       | Opening Hours   |
 | --------- | --------------- |
