@@ -43,13 +43,13 @@
 
     &::before {
       bottom: 0;
-      border-width: $popover-arrow-height ($popover-arrow-width / 2) 0;
+      border-width: $popover-arrow-height (math.div($popover-arrow-width, 2)) 0;
       border-top-color: $popover-arrow-outer-color;
     }
 
     &::after {
       bottom: $popover-border-width;
-      border-width: $popover-arrow-height ($popover-arrow-width / 2) 0;
+      border-width: $popover-arrow-height (math.div($popover-arrow-width, 2)) 0;
       border-top-color: $popover-arrow-color;
     }
   }
@@ -66,7 +66,7 @@
 
     &::before {
       left: 0;
-      border-width: ($popover-arrow-width / 2) $popover-arrow-height ($popover-arrow-width / 2) 0;
+      border-width: math.div($popover-arrow-width, 2) $popover-arrow-height math.div($popover-arrow-width, 2) 0;
       border-right-color: $popover-arrow-outer-color;
     }
 
