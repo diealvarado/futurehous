@@ -3,24 +3,22 @@
         "show_call_box": true
     },
     "logo": {
-        "mobile": "/images/logo/logo-mobile.svg",
-        "desktop": "/images/logo/logo.svg",
-        "desktop_height": "36px",
-        "alt": "Serif - A Gatsby Business Theme"
+        "mobile": "/images/logo/logo-mobile.png",
+        "desktop": "/images/logo/logo-mobile.png",
+        "desktop_height": "50px",
+        "alt": "House Care Property Management"
     },
     "homepage_meta_tags": {
-        "meta_description": "Serif is a modern business theme for Gatsby. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated.",
-        "meta_og_title": "Gatsby Serif Theme",
+        "meta_description": "The Future of Property Management. Rental Management that empower homeowners and tenants.",
+        "meta_og_title": "House Care Property Management",
         "meta_og_type": "website",
-        "meta_og_url": "https://gatsby-serif.netlify.app/",
-        "meta_og_image": "https://www.zerostatic.io/theme/gatsby-serif/gatsby-serif-screenshot.png",
-        "meta_og_description": "Serif is a modern business theme for Gatsby. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated.",
+        "meta_og_url": "houscare.us",
+        "meta_og_image": "/images/logo/logo-mobile.png",
+        "meta_og_description": "The Future of Property Management with House Care.",
         "meta_twitter_card": "summary",
-        "meta_twitter_site": "@zerostaticio",
-        "meta_twitter_creator": "@zerostaticio"
+        "meta_twitter_site": "@diealvarado",
+        "meta_twitter_creator": "@diealvarado"
     },
     "footer": {
-        "copyright_text": "Free Gatsby theme by",
-        "copyright_link": "https://www.zerostatic.io"
     }
 }
