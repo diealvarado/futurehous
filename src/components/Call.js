@@ -16,7 +16,7 @@ const Call = props => {
       <div className="call-box-top">
         {data.contactJson.phone && (
           <div className="call-phone">
-            <strong>Phone: </strong>
+            <strong>Call or Text: </strong>
             {' '}
             { data.contactJson.phone }
             {' '}
